@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 988d560df8d322a468c97243cbfd76e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Spider
+  - first:
+      213: 21300002
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_1
+  - first:
+      213: 21300004
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_2
+  - first:
+      213: 21300006
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_3
+  - first:
+      213: 21300008
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_4
+  - first:
+      213: 21300010
+    second: Eye Ball
+  - first:
+      213: 21300012
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_6
+  - first:
+      213: 21300014
+    second: Scheleton
+  - first:
+      213: 21300016
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_8
+  - first:
+      213: 21300018
+    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_9
+  - first:
+      213: 3158756702100506667
+    second: Spider
+  - first:
+      213: 7379964925089052084
+    second: Battle Enemies_1
+  - first:
+      213: -8351698421341313478
+    second: Battle Enemies_2
+  - first:
+      213: 314894398919422523
+    second: Battle Enemies_3
+  - first:
+      213: 8649447230888201221
+    second: Battle Enemies_4
+  - first:
+      213: 111402550505341932
+    second: Eye Ball
+  - first:
+      213: 1541271363263388827
+    second: Shaman
+  - first:
+      213: 882142948967857969
+    second: Scheleton
+  - first:
+      213: -3393875576910594421
+    second: Battle Enemies_8
+  - first:
+      213: -9217892373904249017
+    second: Battle Enemies_9
+  - first:
+      213: -6062344042969314257
+    second: Battle Enemies_10
+  - first:
+      213: -1200918378401235654
+    second: Battle Enemies_11
+  - first:
+      213: -7054930508647482075
+    second: Battle Enemies_12
+  - first:
+      213: -7266440653761850297
+    second: Battle Enemies_13
+  - first:
+      213: -2928742122455648232
+    second: Battle Enemies_14
+  - first:
+      213: -6715886571174307962
+    second: Battle Enemies_15
+  - first:
+      213: -7957708924856081241
+    second: Battle Enemies_16
+  - first:
+      213: -8970547225951019737
+    second: Battle Enemies_17
+  - first:
+      213: -5635319448251346394
+    second: Battle Enemies_18
+  - first:
+      213: 2053127757750206449
+    second: Battle Enemies_19
+  - first:
+      213: 8300532466840802682
+    second: Battle Enemies_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 384
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c5981c7826db20800000000000000
+      internalID: 3158756702100506667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b576c6aff6ea6660800000000000000
+      internalID: 7379964925089052084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 292
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a2c4f88ec81c80800000000000000
+      internalID: -8351698421341313478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 272
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b323a5599cabe5400800000000000000
+      internalID: 314894398919422523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc3940e62090870800000000000000
+      internalID: 8649447230888201221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye Ball
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 200
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce381f98708cb8100800000000000000
+      internalID: 111402550505341932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cdbcd8322b36510800000000000000
+      internalID: 1541271363263388827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scheleton
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f385a96500e3c00800000000000000
+      internalID: 882142948967857969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 26
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ebe52f42886e0d0800000000000000
+      internalID: -3393875576910594421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa7a379b7731080800000000000000
+      internalID: -9217892373904249017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9562d249a299e844bc0ab7d4101464c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

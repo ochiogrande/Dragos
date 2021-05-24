@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 892ef1b8e7aacf24ea57047e94192cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2836629949319814479
+    second: cave x 32_0
+  - first:
+      213: 8509851445930806588
+    second: cave x 32_1
+  - first:
+      213: 7891126216792566891
+    second: cave x 32_2
+  - first:
+      213: -3314408300276530308
+    second: cave x 32_3
+  - first:
+      213: -4715080856821143380
+    second: cave x 32_4
+  - first:
+      213: -8534231972173072232
+    second: cave x 32_5
+  - first:
+      213: -7489984968920341438
+    second: cave x 32_6
+  - first:
+      213: 1328025669218603699
+    second: cave x 32_7
+  - first:
+      213: 2260755827750894332
+    second: cave x 32_8
+  - first:
+      213: 8578794113211280764
+    second: cave x 32_9
+  - first:
+      213: 3044680451455559067
+    second: cave x 32_10
+  - first:
+      213: 7761752235789521678
+    second: cave x 32_11
+  - first:
+      213: -4546286130350036103
+    second: cave x 32_12
+  - first:
+      213: 1824469633801809474
+    second: cave x 32_13
+  - first:
+      213: -3880970527584600089
+    second: cave x 32_14
+  - first:
+      213: 5929940526997733501
+    second: cave x 32_15
+  - first:
+      213: -188322831068460677
+    second: cave x 32_16
+  - first:
+      213: -3917431730476002780
+    second: cave x 32_17
+  - first:
+      213: -8506175993186743191
+    second: cave x 32_18
+  - first:
+      213: 3645481316688214292
+    second: cave x 32_19
+  - first:
+      213: 2034099898627181530
+    second: cave x 32_20
+  - first:
+      213: 5176381767702804627
+    second: cave x 32_21
+  - first:
+      213: -5476428922987353238
+    second: cave x 32_22
+  - first:
+      213: 1519997724427555199
+    second: cave x 32_23
+  - first:
+      213: 8049266191680331147
+    second: cave x 32_24
+  - first:
+      213: -7038445977653535298
+    second: cave x 32_25
+  - first:
+      213: -8072410677135028385
+    second: cave x 32_26
+  - first:
+      213: -4891982519865163843
+    second: cave x 32_27
+  - first:
+      213: 829815632107309518
+    second: cave x 32_28
+  - first:
+      213: -8675955914471926347
+    second: cave x 32_29
+  - first:
+      213: 8307605437985795446
+    second: cave x 32_30
+  - first:
+      213: -630064282487569670
+    second: cave x 32_31
+  - first:
+      213: 3069005634570965398
+    second: cave x 32_32
+  - first:
+      213: 6024732432629674014
+    second: cave x 32_33
+  - first:
+      213: -7596888964341859737
+    second: cave x 32_34
+  - first:
+      213: 6723305987806382933
+    second: cave x 32_35
+  - first:
+      213: -8783606813815702092
+    second: cave x 32_36
+  - first:
+      213: 7442698170363324879
+    second: cave x 32_37
+  - first:
+      213: 7704616059207327241
+    second: cave x 32_38
+  - first:
+      213: -5204172656341473350
+    second: cave x 32_39
+  - first:
+      213: 5767833755754384445
+    second: cave x 32_40
+  - first:
+      213: -3488269307737644651
+    second: cave x 32_41
+  - first:
+      213: -5194506374571008864
+    second: cave x 32_42
+  - first:
+      213: 5752367573275050249
+    second: cave x 32_43
+  - first:
+      213: 6450174794748496921
+    second: cave x 32_44
+  - first:
+      213: -1428801972081573527
+    second: cave x 32_45
+  - first:
+      213: -44567572673185893
+    second: cave x 32_46
+  - first:
+      213: 749028962898010941
+    second: cave x 32_47
+  - first:
+      213: -6953297542995049835
+    second: cave x 32_48
+  - first:
+      213: -2295489189770724529
+    second: cave x 32_49
+  - first:
+      213: -3154785046961591135
+    second: cave x 32_50
+  - first:
+      213: 8249994930518996771
+    second: cave x 32_51
+  - first:
+      213: 4984379027374086771
+    second: cave x 32_52
+  - first:
+      213: 798373696714643965
+    second: cave x 32_53
+  - first:
+      213: -789495192971137867
+    second: cave x 32_54
+  - first:
+      213: 8680048234642292671
+    second: cave x 32_55
+  - first:
+      213: -3933443570962766621
+    second: cave x 32_56
+  - first:
+      213: 9150840458484948363
+    second: cave x 32_57
+  - first:
+      213: 6497570915764022400
+    second: cave x 32_58
+  - first:
+      213: -923674815262315185
+    second: cave x 32_59
+  - first:
+      213: -1917093411178571304
+    second: cave x 32_60
+  - first:
+      213: -3694586762060408846
+    second: cave x 32_61
+  - first:
+      213: 6729978818198178949
+    second: cave x 32_62
+  - first:
+      213: -7522425187348189039
+    second: cave x 32_63
+  - first:
+      213: 4249982988978269902
+    second: cave x 32_64
+  - first:
+      213: 8519267786468047107
+    second: cave x 32_65
+  - first:
+      213: 2877039921803550429
+    second: cave x 32_66
+  - first:
+      213: 2654370158030415897
+    second: cave x 32_67
+  - first:
+      213: 7757378917049637960
+    second: cave x 32_68
+  - first:
+      213: 4413525695016050616
+    second: cave x 32_69
+  - first:
+      213: 6918116695194358706
+    second: cave x 32_70
+  - first:
+      213: 1728489639662820883
+    second: cave x 32_71
+  - first:
+      213: -3982933299841308717
+    second: cave x 32_72
+  - first:
+      213: -7502932065487692232
+    second: cave x 32_73
+  - first:
+      213: -5499521895988583973
+    second: cave x 32_74
+  - first:
+      213: 2681582329967835046
+    second: cave x 32_75
+  - first:
+      213: -6083629670751565373
+    second: cave x 32_76
+  - first:
+      213: -6840320575020464061
+    second: cave x 32_77
+  - first:
+      213: -4696188320817844044
+    second: cave x 32_78
+  - first:
+      213: 380982488500327662
+    second: cave x 32_79
+  - first:
+      213: 1658853971604799134
+    second: cave x 32_80
+  - first:
+      213: 4837565772171277216
+    second: cave x 32_81
+  - first:
+      213: 6506619589528901437
+    second: cave x 32_82
+  - first:
+      213: -4799516228374653969
+    second: cave x 32_83
+  - first:
+      213: -6187789577066567997
+    second: cave x 32_84
+  - first:
+      213: 4330496322532179906
+    second: cave x 32_85
+  - first:
+      213: -5048333734124059189
+    second: cave x 32_86
+  - first:
+      213: -914749971904090638
+    second: cave x 32_87
+  - first:
+      213: 2429340592287296602
+    second: cave x 32_88
+  - first:
+      213: -378932218033494823
+    second: cave x 32_89
+  - first:
+      213: 2240654207855340836
+    second: cave x 32_90
+  - first:
+      213: -2887690117148900720
+    second: cave x 32_91
+  - first:
+      213: 4744839767085565344
+    second: cave x 32_92
+  - first:
+      213: -7561470485311953780
+    second: cave x 32_93
+  - first:
+      213: -4381001080284578412
+    second: cave x 32_94
+  - first:
+      213: 3081792748465446605
+    second: cave x 32_95
+  - first:
+      213: 3097828228935389844
+    second: cave x 32_96
+  - first:
+      213: 7769586547259534835
+    second: cave x 32_97
+  - first:
+      213: -2757607665736935410
+    second: cave x 32_98
+  - first:
+      213: 7968923988591155258
+    second: cave x 32_99
+  - first:
+      213: -5588179558289644017
+    second: cave x 32_100
+  - first:
+      213: 8864811263245453615
+    second: cave x 32_101
+  - first:
+      213: -2392369370526840372
+    second: cave x 32_102
+  - first:
+      213: 5237308942875986229
+    second: cave x 32_103
+  - first:
+      213: 4126519933092215920
+    second: cave x 32_104
+  - first:
+      213: 648482757628310982
+    second: cave x 32_105
+  - first:
+      213: -1659251232961806022
+    second: cave x 32_106
+  - first:
+      213: -6664759138376477239
+    second: cave x 32_107
+  - first:
+      213: -7002843003871181841
+    second: cave x 32_108
+  - first:
+      213: -510155181207088774
+    second: cave x 32_109
+  - first:
+      213: -4977559207298166755
+    second: cave x 32_110
+  - first:
+      213: 3624160653180283852
+    second: cave x 32_111
+  - first:
+      213: 788749363220822023
+    second: cave x 32_112
+  - first:
+      213: 9005981768318809688
+    second: cave x 32_113
+  - first:
+      213: -5875601045436913198
+    second: cave x 32_114
+  - first:
+      213: 1508694463759303643
+    second: cave x 32_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

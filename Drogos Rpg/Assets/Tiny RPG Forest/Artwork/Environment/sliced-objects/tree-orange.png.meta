@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 8c69f3cd16f534bec8236a6484f500d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2850627945663199611
+    second: tree-orange_0
+  - first:
+      213: -8778151999511415079
+    second: tree-orange_1
+  - first:
+      213: -2516238866305088480
+    second: tree-orange_2
+  - first:
+      213: -3744316021376371662
+    second: tree-orange_3
+  - first:
+      213: -4643873009119523140
+    second: tree-orange_4
+  - first:
+      213: -547038989744830396
+    second: tree-orange_5
+  - first:
+      213: -7166072438222859013
+    second: tree-orange_6
+  - first:
+      213: 6088537389928169963
+    second: tree-orange_7
+  - first:
+      213: -4906528778789136334
+    second: tree-orange_8
+  - first:
+      213: 1255026555178133025
+    second: tree-orange_9
+  - first:
+      213: 1503327007334910069
+    second: tree-orange_10
+  - first:
+      213: -7255606977908148771
+    second: tree-orange_11
+  - first:
+      213: 8922645016771494517
+    second: tree-orange_12
+  - first:
+      213: -8083837824896048350
+    second: tree-orange_13
+  - first:
+      213: 6892182510647183324
+    second: tree-orange_14
+  - first:
+      213: 7084265118408693550
+    second: tree-orange_15
+  - first:
+      213: 5826796853214332694
+    second: tree-orange_16
+  - first:
+      213: 459349903169739190
+    second: tree-orange_17
+  - first:
+      213: -210179633647133370
+    second: tree-orange_18
+  - first:
+      213: -2908272377171249537
+    second: tree-orange_19
+  - first:
+      213: 7813719784131706444
+    second: tree-orange_0
+  - first:
+      213: 8097388719513808521
+    second: tree-orange_1
+  - first:
+      213: 4026687913021538590
+    second: tree-orange_2
+  - first:
+      213: 6101583631779149930
+    second: tree-orange_3
+  - first:
+      213: 5973299476592175244
+    second: tree-orange_4
+  - first:
+      213: -2418805692208091687
+    second: tree-orange_5
+  - first:
+      213: 8477226187297200741
+    second: tree-orange_6
+  - first:
+      213: -6391245886839205342
+    second: tree-orange_7
+  - first:
+      213: -4283834274110190737
+    second: tree-orange_8
+  - first:
+      213: -7133787132865679435
+    second: tree-orange_9
+  - first:
+      213: -4237713669021591387
+    second: tree-orange_10
+  - first:
+      213: 3865337098009427979
+    second: tree-orange_11
+  - first:
+      213: 2080989618691296302
+    second: tree-orange_12
+  - first:
+      213: 6864583249755856630
+    second: tree-orange_13
+  - first:
+      213: -1362938344013384352
+    second: tree-orange_14
+  - first:
+      213: 4665757464367072622
+    second: tree-orange_15
+  - first:
+      213: -4398188634557219991
+    second: tree-orange_16
+  - first:
+      213: 4396708849916114633
+    second: tree-orange_17
+  - first:
+      213: 3514755322806316403
+    second: tree-orange_18
+  - first:
+      213: -4348427740024098769
+    second: tree-orange_19
+  - first:
+      213: -1845658531058451297
+    second: tree-orange_20
+  - first:
+      213: -3911972952535063043
+    second: tree-orange_21
+  - first:
+      213: 4349613403827587994
+    second: tree-orange_22
+  - first:
+      213: 8951897121331623768
+    second: tree-orange_23
+  - first:
+      213: 2639968012737572631
+    second: tree-orange_24
+  - first:
+      213: 423921304560547740
+    second: tree-orange_25
+  - first:
+      213: 5574440554581218940
+    second: tree-orange_26
+  - first:
+      213: 3195652093634044104
+    second: tree-orange_27
+  - first:
+      213: -2840681432505212407
+    second: tree-orange_28
+  - first:
+      213: -6637156462109394704
+    second: tree-orange_29
+  - first:
+      213: 8511492060322937796
+    second: tree-orange_30
+  - first:
+      213: -2633954304441981261
+    second: tree-orange_31
+  - first:
+      213: -8094106828437036241
+    second: tree-orange_32
+  - first:
+      213: 6479634239281053082
+    second: tree-orange_33
+  - first:
+      213: -6483309432163507942
+    second: tree-orange_34
+  - first:
+      213: -8106878453072179685
+    second: tree-orange_35
+  - first:
+      213: 7346380931563530633
+    second: tree-orange_36
+  - first:
+      213: 3354184731728547398
+    second: tree-orange_37
+  - first:
+      213: 6480917196111206669
+    second: tree-orange_38
+  - first:
+      213: -8988162384754377795
+    second: tree-orange_39
+  - first:
+      213: 1283075194785120977
+    second: tree-orange_40
+  - first:
+      213: -5794729974898521350
+    second: tree-orange_41
+  - first:
+      213: 3963382875952685353
+    second: tree-orange_42
+  - first:
+      213: -7071513300397831727
+    second: tree-orange_43
+  - first:
+      213: -653333512477375451
+    second: tree-orange_44
+  - first:
+      213: -7081637812776107194
+    second: tree-orange_45
+  - first:
+      213: -6361679387047371236
+    second: tree-orange_46
+  - first:
+      213: 4303525345761247791
+    second: tree-orange_47
+  - first:
+      213: 8363550136855552575
+    second: tree-orange_48
+  - first:
+      213: 8224587466467159808
+    second: tree-orange_49
+  - first:
+      213: 3929357425061397273
+    second: tree-orange_50
+  - first:
+      213: -3851735991022930819
+    second: tree-orange_51
+  - first:
+      213: -8697306626048390977
+    second: tree-orange_52
+  - first:
+      213: -182764855825802794
+    second: tree-orange_53
+  - first:
+      213: 7599115492954897333
+    second: tree-orange_54
+  - first:
+      213: 5389071756054692414
+    second: tree-orange_55
+  - first:
+      213: 5952489589636583552
+    second: tree-orange_56
+  - first:
+      213: 6924502300095467517
+    second: tree-orange_57
+  - first:
+      213: -7183248678676352697
+    second: tree-orange_58
+  - first:
+      213: -6328692441998920722
+    second: tree-orange_59
+  - first:
+      213: -4831435739738386358
+    second: tree-orange_60
+  - first:
+      213: -8947569252142975077
+    second: tree-orange_61
+  - first:
+      213: -8769630665082575716
+    second: tree-orange_62
+  - first:
+      213: 6654791052263126944
+    second: tree-orange_63
+  - first:
+      213: 7114963558043821635
+    second: tree-orange_64
+  - first:
+      213: -6469500340543371527
+    second: tree-orange_65
+  - first:
+      213: 600867518590987768
+    second: tree-orange_66
+  - first:
+      213: 3056788143758817117
+    second: tree-orange_67
+  - first:
+      213: -9162526729337106190
+    second: tree-orange_68
+  - first:
+      213: 9008165683281634550
+    second: tree-orange_69
+  - first:
+      213: -4555230567603658537
+    second: tree-orange_70
+  - first:
+      213: 2485026993203210677
+    second: tree-orange_71
+  - first:
+      213: -3396180228521665987
+    second: tree-orange_72
+  - first:
+      213: -8447609566222624707
+    second: tree-orange_73
+  - first:
+      213: -2481437137318933917
+    second: tree-orange_20
+  - first:
+      213: -8867971213237454247
+    second: tree-orange_21
+  - first:
+      213: 8376638672052357553
+    second: tree-orange_22
+  - first:
+      213: -310125515785194404
+    second: tree-orange_23
+  - first:
+      213: 5583675670336426602
+    second: tree-orange_24
+  - first:
+      213: -533620566785155163
+    second: tree-orange_25
+  - first:
+      213: 2556954363148107224
+    second: tree-orange_26
+  - first:
+      213: 3035765624048470801
+    second: tree-orange_27
+  - first:
+      213: -1647039244370072880
+    second: tree-orange_28
+  - first:
+      213: 3073003446311632900
+    second: tree-orange_29
+  - first:
+      213: -5985610895953490817
+    second: tree-orange_30
+  - first:
+      213: -6530771167661108315
+    second: tree-orange_31
+  - first:
+      213: -3501593160720955296
+    second: tree-orange_32
+  - first:
+      213: -3446318045496374448
+    second: tree-orange_33
+  - first:
+      213: -3704680885630312198
+    second: tree-orange_34
+  - first:
+      213: 2856687220363663852
+    second: tree-orange_35
+  - first:
+      213: 7293513505955359724
+    second: tree-orange_36
+  - first:
+      213: -2128474198721528292
+    second: tree-orange_37
+  - first:
+      213: 1431670309441284746
+    second: tree-orange_38
+  - first:
+      213: -7190978967651434001
+    second: tree-orange_39
+  - first:
+      213: -3317493346300182105
+    second: tree-orange_40
+  - first:
+      213: -4430251971594987605
+    second: tree-orange_41
+  - first:
+      213: 120745549047709232
+    second: tree-orange_42
+  - first:
+      213: 1487409263749755222
+    second: tree-orange_43
+  - first:
+      213: 6287218276430935477
+    second: tree-orange_44
+  - first:
+      213: -1870925720320542875
+    second: tree-orange_45
+  - first:
+      213: -2466643710896720255
+    second: tree-orange_46
+  - first:
+      213: -8135890998062282352
+    second: tree-orange_47
+  - first:
+      213: -8350095164180917322
+    second: tree-orange_48
+  - first:
+      213: 5914844728421302026
+    second: tree-orange_49
+  - first:
+      213: -8731613985313050078
+    second: tree-orange_50
+  - first:
+      213: -8489490984693815203
+    second: tree-orange_51
+  - first:
+      213: -959382863870944931
+    second: tree-orange_52
+  - first:
+      213: -7500972984995684889
+    second: tree-orange_53
+  - first:
+      213: 5735600164291733952
+    second: tree-orange_54
+  - first:
+      213: 5915423373188314703
+    second: tree-orange_55
+  - first:
+      213: 8270959373710949169
+    second: tree-orange_56
+  - first:
+      213: 178727113077564527
+    second: tree-orange_57
+  - first:
+      213: 4189513179716494749
+    second: tree-orange_58
+  - first:
+      213: -772634304443947742
+    second: tree-orange_59
+  - first:
+      213: -6079924407610765824
+    second: tree-orange_60
+  - first:
+      213: 8316257371157606691
+    second: tree-orange_61
+  - first:
+      213: 3584440823760719735
+    second: tree-orange_62
+  - first:
+      213: 7948406564344823923
+    second: tree-orange_63
+  - first:
+      213: -2898192495708185979
+    second: tree-orange_64
+  - first:
+      213: -586070982600580145
+    second: tree-orange_65
+  - first:
+      213: 1991503210965242862
+    second: tree-orange_66
+  - first:
+      213: -7375233784063760468
+    second: tree-orange_67
+  - first:
+      213: -1733033356635377230
+    second: tree-orange_68
+  - first:
+      213: -4982855634952558429
+    second: tree-orange_69
+  - first:
+      213: -6279035865266970131
+    second: tree-orange_70
+  - first:
+      213: 2676539379980919022
+    second: tree-orange_71
+  - first:
+      213: -2149854427155633071
+    second: tree-orange_72
+  - first:
+      213: -8491846682598008670
+    second: tree-orange_73
+  - first:
+      213: 2902826797149479594
+    second: tree-orange_74
+  - first:
+      213: 4118751733364682957
+    second: tree-orange_75
+  - first:
+      213: -9172159016549430734
+    second: tree-orange_76
+  - first:
+      213: -2838505905714140646
+    second: tree-orange_77
+  - first:
+      213: -1535398701181175056
+    second: tree-orange_78
+  - first:
+      213: 7728610450823655833
+    second: tree-orange_79
+  - first:
+      213: 2744798002973158400
+    second: tree-orange_74
+  - first:
+      213: 1427605797139538424
+    second: tree-orange_75
+  - first:
+      213: 517788198366027519
+    second: tree-orange_76
+  - first:
+      213: 7438777735398094923
+    second: tree-orange_77
+  - first:
+      213: 610733431395805212
+    second: tree-orange_78
+  - first:
+      213: -4582842252809993137
+    second: tree-orange_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree-orange_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebc9baeb8ef6c60800000000000000
+      internalID: 7813719784131706444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e20ea7324bf5070800000000000000
+      internalID: 8097388719513808521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110205925ba1e730800000000000000
+      internalID: 4026687913021538590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b88b4cfd2da450800000000000000
+      internalID: 6101583631779149930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ad4fd93c65e250800000000000000
+      internalID: 5973299476592175244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6e3fc90dae6ed0800000000000000
+      internalID: -2418805692208091687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1d769d4825a570800000000000000
+      internalID: 8477226187297200741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222d5ca6abbbd47a0800000000000000
+      internalID: -6391245886839205342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc407ac63cc84c0800000000000000
+      internalID: -4283834274110190737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe94a2662bffc90800000000000000
+      internalID: -7133787132865679435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89622dedd9035c0800000000000000
+      internalID: -4237713669021591387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00cdf77c9f64a530800000000000000
+      internalID: 3865337098009427979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cce5b580921ec10800000000000000
+      internalID: 2080989618691296302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5bc47816e34f50800000000000000
+      internalID: 6864583249755856630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b25a1cced51de0800000000000000
+      internalID: -1362938344013384352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650abf81b910c040800000000000000
+      internalID: 4665757464367072622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b7e0e4dbe76f2c0800000000000000
+      internalID: -4398188634557219991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6f01c776f340d30800000000000000
+      internalID: 4396708849916114633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da848185be6c030800000000000000
+      internalID: 3514755322806316403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-orange_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b868620847a3c0800000000000000
+      internalID: -4348427740024098769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
